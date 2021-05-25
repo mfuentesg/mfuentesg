@@ -1,5 +1,3 @@
-🚧 WIP
-
 - 🔭 Work at 即刻
 - 🎧 Build 小宇宙 App
 - ☯️  Discover universe
