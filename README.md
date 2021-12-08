@@ -1,6 +1,6 @@
 Hi!
 
-Welcome to my profile, if you are interested to know more about me, check my <a href="https://mfuentesg.dev" target="_blank">website</a> or take a look to some interesting [projects](https://github.com/mfuentesg) that I have built.
+Welcome to my profile, if you are interested to know more about me, check my <a href="https://mfuentesg.dev" target="_blank">website</a> or take a look to some interesting [projects](https://github.com/mfuentesg?tab=repositories) that I have built.
 
 - [SyncSettings](https://github.com/mfuentesg/SyncSettings)
 - [Kubernetes secret decoder (ksd)](https://github.com/mfuentesg/SyncSettings)
